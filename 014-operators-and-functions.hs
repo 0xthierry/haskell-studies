@@ -1,0 +1,31 @@
+-- && -> and
+-- || -> or
+-- not -> not
+-- abs -20 -> 20
+-- div 3 2 -> 1.5
+-- mod 4 2 -> 0
+-- > < >=<=
+-- \= -> different
+-- intToDigit '2' -> 2
+-- digitToInt 2 -> '2'
+-- sqrt 100 -> 10
+-- floor 3.8 -> 3
+-- ceiling 3.2 -> 4
+-- round 3.6 -> 4
+-- null [] -> True
+-- tail [1,2,4] -> [2,3]
+-- head [1,2,4] -> 1
+-- last [1,2,4] -> 4
+-- init [1,2,4] -> [1,2]
+-- drop 2 [1,2,4,5] -> [4,5]
+-- lines "carro" -> ["carro"]
+-- take 2 [1,2,4,5] -> [1,2]
+-- reverse [1,2,4,5] -> [5,4,2,1]
+-- splitAt 2 "Haskell" -> ("Ha", "skell")
+-- replicate 2 "Haskell" -> ["Haskell", "Haskell"]
+-- repeate 3 -> [3,3,3,3,3,3,3...Infinite]
+-- words "Thierry Santos" -> ["Thierry", "Santos"]
+-- and [True, True] -> True
+-- or [True, True] -> True
+-- zip [1,2] [3,3] -> [(1,3), (2,3)]
+-- unzip [(1,3), (2,3)] -> ([1,2], [3,3])
