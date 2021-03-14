@@ -11,4 +11,4 @@ reversex (x:xs) = reversex xs ++ [x]
 
 -- generate a list
 generateList :: Int -> [Int]
-generateList n = n : generateList(n + 1) 
+generateList n = n : generateList(n + 1)
